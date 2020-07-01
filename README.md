@@ -22,9 +22,9 @@
 下記の連絡先までご相談ください。  
 
 体験のご希望：北海道立総合研究機構　工業試験場　桒野（くわの）  
-Email: kuwano-kouki@hro.or.jp
+Email: <kuwano-kouki@hro.or.jp>
 Tel:011-747-2975 Fax:011-726-4057
 
 購入のご希望：株式会社オブシープ　吉田  
-Email: yoshida@ofsheep.com
+Email: <yoshida@ofsheep.com>
 Tel: 080-3356-3646
