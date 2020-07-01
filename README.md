@@ -1,4 +1,4 @@
-![画像の説明](./images/air_transmission.jpg "air_transmission")  
+![画像の説明](image/air_transmission.jpg "air_transmission")  
 
 # 「 空気伝話 」ってなに？
 　「**空気伝話**」は、**ゴムボール**とそれらをつなぐ**チューブ**からなる、**情報伝達装置**です。  
