@@ -16,7 +16,8 @@
  ・心療内科のグループカウンセリングでの[アンケート結果](image/questionnaire2.jpg) 　　
 
 # その様子や利用イメージ  
-・[コンセプトイメージ（ウィズコロナ）](image/air_handshaker.jpg)  
+・[コンセプトイメージ１（ウィズコロナ）](image/air_handshaker.jpg)  
+・[コンセプトイメージ２](image/.jpg)  
 
 # 使ってみたい、という方へ
 下記の連絡先までご相談ください。  
