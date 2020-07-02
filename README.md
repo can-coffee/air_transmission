@@ -13,7 +13,7 @@
 # 事例やアンケート結果  
  ・NTTインターコミュニケーション・センター (ICC)での[展示](https://www.ntticc.or.jp/ja/exhibitions/2019/social-haptics-lab/) （東京2019.5.18—2020.3.1)  
  ・ブラインドサッカーにおける視覚障がい者の観戦  
- ・心療内科のグループカウンセリングでの[アンケート結果] 　　
+ ・心療内科のグループカウンセリングでの[アンケート結果](image/questionnaire2.jpg) 　　
 
 # その様子や利用イメージ  
 ・[コンセプトイメージ（ウィズコロナ）](image/air_handshaker.jpg)  
